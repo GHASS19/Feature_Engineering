@@ -10,7 +10,7 @@ The general process of feature engineering is shown below:
 
 ![image](https://user-images.githubusercontent.com/86930309/230740271-ad0902e2-094b-4d4f-844c-089b737f93e4.png)
 
-In this notebook, we'll work with Featuretools to develop an automated feature engineering workflow for the customer churn dataset. The end outcome is a function that takes in a dataset and label times for customers and builds a feature matrix that can be used to train a machine learning model
+In this notebook, we'll work with Featuretools to develop an automated feature engineering workflow for the customer churn dataset. The end outcome is a function that takes in a dataset and label times for customers and builds a feature matrix that can be used to train a machine learning model.
 
 ## 1. Import Libraries
 
