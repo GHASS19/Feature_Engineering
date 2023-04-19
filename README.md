@@ -86,9 +86,14 @@ Automated feature engineering is a significant improvement over manual feature e
 Along the way, we implemented a number of Featuretools concepts:
 
 An entityset and entities
+
 Relationships between entities
+
 Cutoff times
+
 Feature primitives
+
 Custom primitives
+
 Deep feature synthesis
 
